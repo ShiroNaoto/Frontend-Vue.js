@@ -1,6 +1,10 @@
-# nootvue
+# Vue.js Ticket Service Template
 
 This template should help get you started developing with Vue 3 in Vite.
+
+# Back-end REST-LARAVEL-API
+
+Laravel api: https://github.com/ShiroNaoto/Vue-Rest-Api
 
 ## Recommended IDE Setup
 
